@@ -1,0 +1,68 @@
+.frm {
+    position: absolute;
+    top: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: "La Belle Aurore", cursive;
+    color: crimson;
+}
+.frm2 {
+    position: absolute;
+    top: 22%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.frm3{
+    position: absolute;
+    top: 27%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url('/JSBFP/images/Fatebg.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+.bttn{
+    border: none;
+    background-color: transparent;
+    font-family: "La Belle Aurore", cursive;
+    color: crimson;
+}
+.imgdv{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parentdiv{
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: "La Belle Aurore", cursive;
+    font-size: x-large;
+    padding: 10px;
+    color: goldenrod;
+}
+.hidden{
+    visibility: hidden;
+}
+#destiny{
+    position: absolute;
+    bottom: -85%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-family: "La Belle Aurore", cursive;
+    font-size: x-large;
+    font-weight: bolder;
+}
